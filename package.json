@@ -1,6 +1,6 @@
 {
   "name": "has-bom-string",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns true if string has a byte order mark (BOM)",
   "repository": "tunnckoCore/has-bom-string",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
