@@ -29,6 +29,14 @@ hasBomString(new Buffer('foo'))
 ```
 
 
+## Related
+- [has-bom](https://github.com/jonschlinkert/has-bom): Returns true if a buffer or string has a byte order mark (BOM)
+- [is-buffer](http://feross.org): Determine if an object is Buffer
+- [strip-bom](https://github.com/sindresorhus/strip-bom): Strip UTF-8 byte order mark (BOM) from a string/buffer
+- [strip-bom-buffer](https://github.com/jonschlinkert/strip-bom-buffer): Strip a byte order mark (BOM) from a buffer.
+- [strip-bom-string](https://github.com/jonschlinkert/strip-bom-string): Strip a byte order mark (BOM) from a string.
+
+
 ## Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/has-bom-string/issues/new).  
 But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines.
