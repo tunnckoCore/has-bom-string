@@ -1,0 +1,35 @@
+{
+  "name": "has-bom-string",
+  "version": "0.0.0",
+  "description": "Returns true if string has a byte order mark (BOM)",
+  "repository": "tunnckoCore/has-bom-string",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "bom",
+    "byte",
+    "byte-order-mark",
+    "check",
+    "file",
+    "fs",
+    "has",
+    "mark",
+    "nl",
+    "normalize",
+    "order",
+    "str",
+    "string",
+    "validate"
+  ]
+}
